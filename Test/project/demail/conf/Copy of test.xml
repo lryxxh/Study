@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GBK"?>
+	<globalset name="国调2" ip="192.168.200.1" fq="2">
+		<second name="国调1" ip="192.168.200.1"  fq="2">
+		</second>
+		<second name="国调2" ip="192.168.200.1"  fq="2">
+		</second>
+		<second name="华中2" ip="192.168.200.1"  fq="2">
+			<third name="华中1" ip="192.168.200.1"  fq="2"/>
+			<third name="华中3" ip="192.168.200.1"  fq="2"/>
+			<third name="四川2" ip="192.168.200.1"  fq="2"/>
+			<third name="湖北2" ip="192.168.200.1"  fq="2"/>
+		</second>
+		<second name="阳城电厂2" ip="192.168.200.1"  fq="2">
+		</second>
+	</globalset>

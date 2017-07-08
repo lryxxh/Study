@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Vendor: KD
+Bundle-Version: 1.0.0.201306051117
+Bundle-Name: 前置数据
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: 前置数据
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

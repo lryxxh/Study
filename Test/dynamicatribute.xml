@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dynamic>
+	<!-- <AttributeType>
+		<Type>ArrowDirectAttribute</Type>
+		<Type>ColorAttribute</Type>
+		<Type>ConditionalAttribute</Type>
+		<Type>CustomColorAttribute</Type>
+		<Type>DataAttribute</Type>
+		<Type>FlatAttribute</Type>
+		<Type>FormattedField</Type>
+		<Type>StatusAttribute</Type>
+		<Type>TopoAttribute</Type>
+		<Type>VoltageAttribute</Type>
+	</AttributeType> -->
+	<!-- 设备的属性,如果  -->
+	<Device>
+		<WindWill3D type="">
+			<ArrowDirectAttribute>DEFAULT</ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</WindWill3D>
+
+		<ArcSection type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</ArcSection>
+
+		<Bar type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Bar>
+
+		<BusLine type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</BusLine>
+
+		<Circuitry type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Circuitry>
+
+		<CircuitryEnd type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</CircuitryEnd>
+
+		<Cylinder type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Cylinder>
+
+		<DCLine type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</DCLine>
+
+		<Dial type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Dial>
+
+		<DynamicRadar type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</DynamicRadar>
+
+		<EnegryConsumer type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</EnegryConsumer>
+
+		<Icon type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Icon>
+
+		<Oval type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Oval>
+
+		<Pie type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Pie>
+
+		<Rectangle type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Rectangle>
+
+		<Sensitive type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Sensitive>
+
+		<Status type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Status>
+
+		<Thermometer type="">
+			<ArrowDirectAttribute></ArrowDirectAttribute>
+			<ColorAttribute></ColorAttribute>
+			<ConditionalAttribute></ConditionalAttribute>
+			<CustomColorAttribute></CustomColorAttribute>
+			<DataAttribute></DataAttribute>
+			<FlatAttribute></FlatAttribute>
+			<FormattedField></FormattedField>
+			<StatusAttribute></StatusAttribute>
+			<TopoAttribute></TopoAttribute>
+			<VoltageAttribute></VoltageAttribute>
+		</Thermometer>
+
+
+	</Device>
+
+</dynamic>

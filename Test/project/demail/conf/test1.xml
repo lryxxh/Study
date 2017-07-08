@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GBK"?>
+<globalset name="华东3" ip="10.30.39.2" fq="2" >
+<second name="国调3" ip="10.19.14.150" fq="2" >
+</second>
+<second name="华北3" ip="18.10.10.202" fq="2" >
+</second>
+<second name="华中3" ip="40.1.1.1" fq="2" >
+</second>
+<second name="华东1" ip="30.10.19.14" fq="2" >
+</second>
+<second name="江苏3" ip="10.32.12.195" fq="2" >
+</second>
+</globalset>

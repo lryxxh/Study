@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+	<MessageHead>
+	</MessageHead>
+	<MessageBody>
+		<Type name="code" desc="返回码" type="short" lenth="2" />
+		<If condition="">
+			<Type name="err_msg_length" desc="错误描述长度" type="int" length="4" />
+			<Type name="err_msg" desc="错误描述" type="string" length="${err_msg_length}" />
+		</If>
+		<Else>
+			<Type name="recordCount" desc="记录数" type="int" length="4" />
+			<Type name="attrCount" desc="属性数" type="short" length="2" />
+			<Loop name="attrList" desc="" count="${attrCount}">
+				<Type name="attrName" desc="属性名" type="string" length="40" />
+				<Type name="type" desc="类型" type="short" length="2" />
+				<Type name="length" desc="长度" type="short" length="2" />
+				<Type name="offset" desc="保留位" type="short" length="2" />
+			</Loop>
+			<Loop count="${recordCount}">
+				<Loop count="${attrCount}">
+					<Type name="cellValue" desc="值" type="${attrList.type}"
+						length="${attrList.length}" />
+				</Loop>
+			</Loop>
+		</Else>
+	</MessageBody>
+</Message>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="design"/>
+	<classpathentry kind="src" path="javascript"/>
+	<classpathentry kind="src" path="curve_test"/>
+	<classpathentry kind="src" path="jfreechart_test"/>
+	<classpathentry kind="src" path="io"/>
+	<classpathentry kind="src" path="jmx"/>
+	<classpathentry kind="src" path="lang"/>
+	<classpathentry kind="src" path="log"/>
+	<classpathentry kind="src" path="net"/>
+	<classpathentry kind="src" path="protocol"/>
+	<classpathentry kind="src" path="proxy"/>
+	<classpathentry kind="src" path="reflect_beans"/>
+	<classpathentry kind="src" path="report_update_jdbchelper"/>
+	<classpathentry kind="src" path="runtime"/>
+	<classpathentry kind="src" path="script"/>
+	<classpathentry kind="src" path="security"/>
+	<classpathentry kind="src" path="socketmanager"/>
+	<classpathentry kind="src" path="socketpool"/>
+	<classpathentry kind="src" path="swing"/>
+	<classpathentry kind="src" path="tgraph3d"/>
+	<classpathentry kind="src" path="tool"/>
+	<classpathentry kind="src" path="xml"/>
+	<classpathentry kind="src" path="xml_encoder"/>
+	<classpathentry kind="src" path="project"/>
+	<classpathentry kind="lib" path="lib/JTattoo.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-0.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/contextmanager.jar" sourcepath="D:/Work/eclipse/D5000_WorkSpace2/zhongshiyou_cc2000/mmi/prjs/contextmanager"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/pinyin4j-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.5.0.jar" sourcepath="E:/资料/Protocol buff/protobuf-2.5.0/java/src/main/java"/>
+	<classpathentry kind="lib" path="lib/j3dcore.jar"/>
+	<classpathentry kind="lib" path="lib/j3dutils.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath.jar"/>
+	<classpathentry kind="lib" path="lib/swing-worker.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar" sourcepath="F:/资料/Java/源码/log4j-1.2.13-src.jar"/>
+	<classpathentry kind="lib" path="lib/l2fprod-common-all.jar" sourcepath="G:/资料/Java/源码/l2fprod-common-all"/>
+	<classpathentry kind="lib" path="lib/swing-layout-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jconsole.jar"/>
+	<classpathentry kind="lib" path="lib/support.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/jmxtools-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/service.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/permmanager.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.14-swt.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="lib/app.jar"/>
+	<classpathentry kind="lib" path="lib/uiframework.jar"/>
+	<classpathentry kind="lib" path="lib/poi-2.5.1-final-20040804.jar"/>
+	<classpathentry kind="lib" path="lib/permctrl.jar"/>
+	<classpathentry kind="lib" path="lib/platform.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/dmailweb.jar"/>
+	<classpathentry kind="lib" path="lib/jbcl.jar"/>
+	<classpathentry kind="lib" path="lib/jsch-0.1.44.jar"/>
+	<classpathentry kind="lib" path="lib/psidp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
